@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Gamification has been increasingly used in recent years to motivate and engage users in several domains. Despite this increase in use and studies, the design of gamified solutions is still complex: there isn't a standard procedure providing support to researchers and practitioners, and there is no control over the methodological rigor for both software use and data analysis. For this reason, not all the gamified solutions work as intended. In this paper, we present an early work in the realization of a tool called GamiDOC, which provides a holistic process to guide researchers and practitioners in the development of gamified solutions, through the use of a gamification design model and its review, a methods design control, a support in the selection of gamified elements, a help in the software development, and a list of standardized user experience questionnaire in order to evaluate the user experience in a proper way.
